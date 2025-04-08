@@ -1,0 +1,37 @@
+.button {
+    padding: 1rem;
+    margin: 5px;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    user-select: none;
+}
+
+.button :hover {
+    cursor: pointer;
+}
+
+.button:active {
+    scale: 1.05;
+}
+
+.number{
+    background-color: gray;
+    color: black;
+    font-weight: bold;
+}
+
+.operator, .sqrt, .percent, .sign{
+    background-color: rgb(96, 85, 85);
+}
+
+.equal {
+    background-color: rgb(157, 46, 46);
+}
+
+.memory {
+    background-color: rgb(66, 61, 88);
+}
+
+.clear {
+    background-color: rgb(88, 12, 12);
+}
