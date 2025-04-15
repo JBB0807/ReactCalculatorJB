@@ -1,6 +1,6 @@
 # React + Vite
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/JBB0807/ReactCalculatorJB/ci.yml?branch=main)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/JBB0807/ReactCalculatorJB/deploy.yml?branch=main)
 This project is a React-based calculator application built with Vite, offering a modern and efficient development experience. It includes configurations for ESLint and Hot Module Replacement (HMR).
 
 ![React Calculator Preview](calculator_preview.png)
